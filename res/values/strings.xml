@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimeVerse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_loading_data">There is error in loading data.Please retry this</string>
+    <string name="retry">Retry</string>
+    <string name="anime_poster">Anime Poster</string>
+</resources>
